@@ -7,3 +7,8 @@
 ![2](https://cyap.oeper.net/2.png)
 4. Enable developer options on your android device by repeatedly tapping "Build number" in your settings app's info menu.
 ![3](https://cyap.oeper.net/3.png)
+
+
+https://github.com/Genymobile/scrcpy for a part of the app
+android devs too
+i just combined some stuff and made instructions. credits to the people mentioned above
